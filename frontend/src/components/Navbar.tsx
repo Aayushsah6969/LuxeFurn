@@ -73,6 +73,14 @@ export const Navbar: React.FC = () => {
               >
                 Contact
               </NavLink>
+              <a
+                href="https://github.com/Aayushsah6969"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-700 px-3 py-2 rounded-md hover:bg-gray-100"
+              >
+                Developer
+              </a>
             </div>
 
             <div className="flex items-center space-x-4">

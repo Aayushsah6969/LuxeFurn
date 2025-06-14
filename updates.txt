@@ -1,1 +1,0 @@
-there should be a page of 'Our Items' in that page we will list all the items available at us. Onlicking any of the item, will go to search page of that category.
